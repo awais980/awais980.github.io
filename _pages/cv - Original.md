@@ -43,6 +43,8 @@ Work experience
   * The basic responsibilities included managing class and conducting activities in “Developing Professional Skills”. The research responsibilities included the research on the change of behavior of students through the course by analyzing the data through qualitative research.
   * Supervisor: Dr. Aisha Mehmood
   
-
-
-
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>

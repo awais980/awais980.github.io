@@ -14,7 +14,8 @@ gem "github-pages", group: :jekyll_plugins
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 
-# gem "jekyll"
+gem "jekyll"
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
@@ -24,4 +25,6 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
+  gem 'faraday', '~> 0'
+#  gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 end
