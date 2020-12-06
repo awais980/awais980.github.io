@@ -159,7 +159,7 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-remote_theme:Minimal
+#remote_theme:"Minimal"
 
 # Markdown Processing
 kramdown:
