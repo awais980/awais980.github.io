@@ -23,13 +23,25 @@ Skills
 * Programming
   * Python, Verilog, C, C++ 
 * Tools
-  * Xilinx Vivado, Synopsys Design Compiler, Synopsys IC Compiler, Matlab
+  * Xilinx 
+    * Vivado
+  * Synopsys 
+	* Design Compiler
+	* IC Compiler
+	* Verdi
+	* Prime Time
+	* Siloti
+  * Others 
+	* Matlab
+	* SVN
+	
 * DNN Libraries
-  * Fastai (PyTorch), Keras
+  * Fastai (PyTorch)
+  * Keras
 * Operating Systems
-  * Windows, Linux
-* Others
-  * MS Office
+  * Windows
+  * Linux
+
 
 Work experience
 ======
