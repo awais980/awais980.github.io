@@ -33,6 +33,10 @@ Skills
 
 Work experience
 ======
+* July 2021 - TBD: Digital IC Designer (R&D Internee)
+  * Damo Technology, Taiwan
+  * Working on the low-power solution for Touch and Display Driver Integration (TDDI) for LCD and OLED
+  
 * April 2016 - July 2016: Research Assistant
   * Namal College, Pakistan
   * Worked as research assistant for the project of “Integration of design thinking and TRIZ for prospective engineers”. The basic responsibilities included data collection, analysis, and conducting sessions with research participants and teaching developing professional skills course
