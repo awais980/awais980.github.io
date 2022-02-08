@@ -21,7 +21,10 @@ Skills
 ======
 
 * Programming
-  * Python, Verilog, C, C++ 
+  * Python
+  * Verilog
+  * C
+  * C++  
 * Tools
   * Xilinx 
     * Vivado
