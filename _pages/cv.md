@@ -48,7 +48,11 @@ Skills
 
 Work experience
 ======
-* July 2021 - TBD: Digital IC Designer (R&D Internee)
+* April 2022 - TBD: Digital IC Designer (Part Time)
+  * Maxense Innovations, Taiwan
+  * Working on the low-power solution for Touch and Display Driver Integration (TDDI) for LCD and OLED
+  
+* July 2021 - April 2022: Digital IC Designer (R&D Internee)
   * Damo Technology, Taiwan
   * Working on the low-power solution for Touch and Display Driver Integration (TDDI) for LCD and OLED
   
